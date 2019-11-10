@@ -1,0 +1,40 @@
+.main-div {
+    background-color: white;
+    margin-top: 20px; 
+    -webkit-box-shadow: 3px 3px 3px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    3px 3px 3px rgba(50, 50, 50, 0.77);
+    box-shadow:         3px 3px 3px rgba(50, 50, 50, 0.77);
+}
+
+.texto-centralizado {
+    text-align: center;
+}
+
+.div-radio{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.div-label{
+    max-width: 90%;
+    padding-left: 10px;
+}
+
+.div-opiniao{
+    background-color: rgba(0,0,0,.03);
+    padding: 10px 10px;
+}
+
+.btn-finalizar{
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+    padding-right: 0px;
+}
+
+
+iframe {
+    max-width: 560px !important;
+    width: 80% !important;
+    height: 315px !important;
+}
